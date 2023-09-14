@@ -1,8 +1,13 @@
 # [Medusa Docker](https://github.com/medusajs/tutorial-template/blob/main/tutorial-link) tutorial codebase.
 
 ## Quick start
+# Pull the submodule code repositories
 ```bash
 git submodule update --recursive --remote
+```
+# Start docker containers
+```bash
+docker compose up --build
 ```
 ## Architecture
 

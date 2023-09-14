@@ -1,2 +1,4 @@
 redis_data/
 postgres_data/
+.idea
+images/

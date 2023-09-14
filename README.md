@@ -1,5 +1,9 @@
 # [Medusa Docker](https://github.com/medusajs/tutorial-template/blob/main/tutorial-link) tutorial codebase.
 
+## Quick start
+```bash
+git submodule update --recursive --remote
+```
 ## Architecture
 
 A medusa store is made up of the following components
